@@ -1,4 +1,4 @@
-# Slava Kondriianenko <img src="https://res.cloudinary.com/slava-cloud/image/upload/v1691493925/240_F_255731595_eG8ZerN19GVsoXqnqaExufXIiWmfDcih_ljvjkd.jpg" style="width: 20px;height:20px;">
+# Slava Kondriianenko <img src="https://cdn-icons-png.flaticon.com/128/10061/10061906.png" width="30px">
 
 **`Fullstack Software Developer`**
 
@@ -29,8 +29,3 @@ Feel free to reach out to me via [email](mailto:vyacheslavkondriyanenko@gmail.co
 [<img src="https://res.cloudinary.com/slava-cloud/image/upload/v1691496920/am-i-responsive-removebg-preview_xwquxl.png" width="290px" height="150px" style="padding-right:30px;">](https://ci-tvv-pp5.herokuapp.com/)
 [<img src="https://res.cloudinary.com/slava-cloud/image/upload/v1691496921/am-i-responsive-4project-removebg-preview_wg3fnl.png" width="200px" height="150px" style="padding-right:30px;">](https://ci-tvv-pp5.herokuapp.com/)
 [<img src="https://res.cloudinary.com/slava-cloud/image/upload/v1691497484/am-i-responsive__1_-removebg-preview_anxy07.png" width="290px" height="130px" >](https://viacheslav1510.github.io/Portfolio_Project_1-Explore_Ukraine/)
-
-
-### GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Viacheslav1510)
