@@ -26,6 +26,6 @@ Feel free to reach out to me via [email](mailto:vyacheslavkondriyanenko@gmail.co
 
 ### Some Projects
 
-[<img src="https://res.cloudinary.com/slava-cloud/image/upload/v1691496920/am-i-responsive-removebg-preview_xwquxl.png" width="290px" height="150px" style="padding-right:30px;">](https://ci-tvv-pp5.herokuapp.com/)
-[<img src="https://res.cloudinary.com/slava-cloud/image/upload/v1691496921/am-i-responsive-4project-removebg-preview_wg3fnl.png" width="200px" height="150px" style="padding-right:30px;">](https://ci-tvv-pp5.herokuapp.com/)
+[<img src="https://res.cloudinary.com/slava-cloud/image/upload/v1691496920/am-i-responsive-removebg-preview_xwquxl.png" width="290px" height="150px" style="padding-right:30px;">](https://the-vinyl-vault-89058fa1689b.herokuapp.com/)
+[<img src="https://res.cloudinary.com/slava-cloud/image/upload/v1691496921/am-i-responsive-4project-removebg-preview_wg3fnl.png" width="200px" height="150px" style="padding-right:30px;">](https://ci-pp4.herokuapp.com/)
 [<img src="https://res.cloudinary.com/slava-cloud/image/upload/v1691497484/am-i-responsive__1_-removebg-preview_anxy07.png" width="290px" height="130px" >](https://viacheslav1510.github.io/Portfolio_Project_1-Explore_Ukraine/)
